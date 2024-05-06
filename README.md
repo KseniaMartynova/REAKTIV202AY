@@ -1,7 +1,7 @@
 # Reactive Programming Patterns
 ## Содержание
-- [Observer](#Observer pattern)
-- [Chain of responsibility](#Chain of responsibility)
+- [Observer](#Observerpattern)
+- [Chain of responsibility](#Chainofresponsibility)
 - [Тестирование](#тестирование)
 - [Команда](#команда)
 ## Observer pattern
